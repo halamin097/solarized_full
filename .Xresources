@@ -1,0 +1,73 @@
+URxvt.scrollBar: false
+
+URxvt.font: 9x15,xft:TerminessTTFNerdFontMono
+
+
+! special
+*.foreground:   #93a1a1
+*.background:   #002b36
+*.cursorColor:  #93a1a1
+
+! black
+*.color0:       #002b36
+*.color8:       #657b83
+
+! red
+*.color1:       #dc322f
+*.color9:       #dc322f
+
+! green
+*.color2:       #859900
+*.color10:      #859900
+
+! yellow
+*.color3:       #b58900
+*.color11:      #b58900
+
+! blue
+*.color4:       #268bd2
+*.color12:      #268bd2
+
+! magenta
+*.color5:       #6c71c4
+*.color13:      #6c71c4
+
+! cyan
+*.color6:       #2aa198
+*.color14:      #2aa198
+
+! white
+*.color7:       #93a1a1
+*.color15:      #fdf6e3
+
+
+
+
+
+
+
+! URxvt*inheritPixmap:            true
+
+! URxvt*transparent:              true
+
+! URxvt*shading:                  50
+
+!! ROFI
+!rofi.fullscreen: false
+!rofi.display-run: Run
+!rofi.display-drun: Search
+rofi.font: SpaceMono Nerd Font Mono 14
+rofi.lines: 10
+rofi.fixed-num-lines: true
+rofi.show-icons: true
+rofi.separator-style: none
+rofi.line-padding: 10
+rofi.width: 500
+rofi.padding: 20
+rofi.bw: 0
+rofi.hide-scrollbar: true
+rofi.color-enabled: true
+rofi.color-normal: argb:00000000, argb:aa6aa4ff, argb:00000000, argb:00000000,argb:aaffffff
+rofi.color-urgent: argb:00000000, argb:aa6aa4ff, argb:00000000, argb:00000000,argb:aaffffff
+rofi.color-active: argb:00000000, argb:aa6aa4ff, argb:00000000, argb:00000000,argb:aaffffff
+rofi.color-window: argb:aa492E7E, argb:aa492E7E, argb:aa492E7E
